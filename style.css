@@ -666,7 +666,7 @@ html {
     width: 40%;
     display: flex;
     top: -1000px;
-    height: 100vh;
+    max-height: 100vh;
     gap: 15px;
     position: absolute;
     flex-direction: column;
